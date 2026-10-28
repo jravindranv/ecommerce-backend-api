@@ -199,7 +199,7 @@ These are potential enhancements and are not claimed as implemented features.
 
 GitHub: https://github.com/jravindranv/ecommerce-backend-api
 
-## Intership Project
+## Internship Project
 
 **Project Title:** E-Commerce Backend API  
 **Project Type:** Academic Mini-Project  
