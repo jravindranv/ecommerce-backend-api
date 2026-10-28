@@ -1,3 +1,10 @@
+## Internship Project
+**Project Owner:** Jishnu R
+**CODTECH Intern ID:** CT-6372
+**Project Title:** E-Commerce Backend API  
+**Project Type:** Academic Mini-Project  
+**Technology Stack:** Node.js, Express.js, SQLite
+
 # E-Commerce Backend API
 
 A RESTful backend API for an e-commerce application developed using Node.js, Express.js, and SQLite. This project demonstrates product management, order processing, input validation, error handling, and automated API testing.
@@ -198,10 +205,4 @@ These are potential enhancements and are not claimed as implemented features.
 ## Repository
 
 GitHub: https://github.com/jravindranv/ecommerce-backend-api
-
-## Internship Project
-
-**Project Title:** E-Commerce Backend API  
-**Project Type:** Academic Mini-Project  
-**Technology Stack:** Node.js, Express.js, SQLite
 
